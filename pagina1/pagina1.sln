@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bee1000", "bee1000\bee1000.csproj", "{4B64CB16-6905-4FD3-B55F-D048179618B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bee1001", "bee1001\bee1001.csproj", "{4F108CEA-05F7-4BF5-9A64-421AE791C784}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bee1002", "bee1002\bee1002.csproj", "{BDC00160-845E-4D99-9582-7EE1FFCAE783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B64CB16-6905-4FD3-B55F-D048179618B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B64CB16-6905-4FD3-B55F-D048179618B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B64CB16-6905-4FD3-B55F-D048179618B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B64CB16-6905-4FD3-B55F-D048179618B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F108CEA-05F7-4BF5-9A64-421AE791C784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F108CEA-05F7-4BF5-9A64-421AE791C784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F108CEA-05F7-4BF5-9A64-421AE791C784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F108CEA-05F7-4BF5-9A64-421AE791C784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC00160-845E-4D99-9582-7EE1FFCAE783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC00160-845E-4D99-9582-7EE1FFCAE783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC00160-845E-4D99-9582-7EE1FFCAE783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC00160-845E-4D99-9582-7EE1FFCAE783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AED33F03-5B0F-4B67-A8FC-24B2BF2661AB}
+	EndGlobalSection
+EndGlobal

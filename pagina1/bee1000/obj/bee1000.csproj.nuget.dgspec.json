@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\pagina1\\bee1000\\bee1000.csproj": {}
+    "c:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\beecrowd-exercises-csharp\\pagina1\\bee1000\\bee1000.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\pagina1\\bee1000\\bee1000.csproj": {
+    "c:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\beecrowd-exercises-csharp\\pagina1\\bee1000\\bee1000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\pagina1\\bee1000\\bee1000.csproj",
+        "projectUniqueName": "c:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\beecrowd-exercises-csharp\\pagina1\\bee1000\\bee1000.csproj",
         "projectName": "bee1000",
-        "projectPath": "C:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\pagina1\\bee1000\\bee1000.csproj",
+        "projectPath": "c:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\beecrowd-exercises-csharp\\pagina1\\bee1000\\bee1000.csproj",
         "packagesPath": "C:\\Users\\flpsp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\pagina1\\bee1000\\obj\\",
+        "outputPath": "c:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\beecrowd-exercises-csharp\\pagina1\\bee1000\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flpsp\\AppData\\Roaming\\NuGet\\NuGet.Config",
