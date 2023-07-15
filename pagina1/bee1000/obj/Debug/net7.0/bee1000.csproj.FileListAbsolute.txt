@@ -1,0 +1,15 @@
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\bin\Debug\net7.0\bee1000.exe
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\bin\Debug\net7.0\bee1000.deps.json
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\bin\Debug\net7.0\bee1000.runtimeconfig.json
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\bin\Debug\net7.0\bee1000.dll
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\bin\Debug\net7.0\bee1000.pdb
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\bee1000.csproj.AssemblyReference.cache
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\bee1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\bee1000.AssemblyInfoInputs.cache
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\bee1000.AssemblyInfo.cs
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\bee1000.csproj.CoreCompileInputs.cache
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\bee1000.dll
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\refint\bee1000.dll
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\bee1000.pdb
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\bee1000.genruntimeconfig.cache
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1000\obj\Debug\net7.0\ref\bee1000.dll

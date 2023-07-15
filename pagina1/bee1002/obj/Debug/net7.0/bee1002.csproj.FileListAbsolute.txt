@@ -1,0 +1,15 @@
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\bee1002.csproj.AssemblyReference.cache
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\bee1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\bee1002.AssemblyInfoInputs.cache
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\bee1002.AssemblyInfo.cs
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\bee1002.csproj.CoreCompileInputs.cache
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\bin\Debug\net7.0\bee1002.exe
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\bin\Debug\net7.0\bee1002.deps.json
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\bin\Debug\net7.0\bee1002.runtimeconfig.json
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\bin\Debug\net7.0\bee1002.dll
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\bin\Debug\net7.0\bee1002.pdb
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\bee1002.dll
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\refint\bee1002.dll
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\bee1002.pdb
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\bee1002.genruntimeconfig.cache
+C:\Users\flpsp\Documents\GitHub\beecrowd-exercises-csharp\pagina1\bee1002\obj\Debug\net7.0\ref\bee1002.dll
