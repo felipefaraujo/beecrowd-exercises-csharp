@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\beecrowd-exercises-csharp\\pagina1\\bee1001\\bee1001.csproj",
+      "projectUniqueName": "c:\\temp\\github\\beecrowd-exercises-csharp\\pagina1\\bee1001\\bee1001.csproj",
       "projectName": "bee1001",
-      "projectPath": "c:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\beecrowd-exercises-csharp\\pagina1\\bee1001\\bee1001.csproj",
+      "projectPath": "c:\\temp\\github\\beecrowd-exercises-csharp\\pagina1\\bee1001\\bee1001.csproj",
       "packagesPath": "C:\\Users\\flpsp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\flpsp\\Documents\\GitHub\\beecrowd-exercises-csharp\\beecrowd-exercises-csharp\\pagina1\\bee1001\\obj\\",
+      "outputPath": "c:\\temp\\github\\beecrowd-exercises-csharp\\pagina1\\bee1001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\flpsp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\flpsp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
